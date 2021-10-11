@@ -54,7 +54,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtlw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtlw&layout=compact&theme=tokyonight&count_private=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
