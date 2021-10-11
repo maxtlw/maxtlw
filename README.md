@@ -1,11 +1,11 @@
-### Hi there, I'm Max 👋
+### Hi there, I'm Max! 👋
 
 ## I'm a Computer Engineering Ph.D. and developer
-- 📚 Got a Ph.D. in Control Systems Engineering
+- 📚 Got a Ph.D. in Control Systems Engineering in 2021
 - 🤖 Machine learning enthusiast
 - 🤓 Currently learning.. everything! 
 - 💻 Creator of [cryptoblend.xyz](https://cryptoblend.xyz)
-- ⛳ 2021 goal: contribute to more Open Source projects
+- ⛳ 2022 goal: contribute to more Open Source projects
 
 
 ### Connect with me:
@@ -16,6 +16,7 @@
 
 ### Languages and tools:
 
+<p float="center">
 <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
 <img alt="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30px" />
 <img alt="scikitlearn" src="https://api.iconify.design/simple-icons/scikitlearn.svg" width="30px" />
@@ -38,13 +39,13 @@
 <img alt="matlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30px" />
 <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30px" />
 <img alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" />
+</p>
 
-<br />
-<br />
+<hr />
 
 ### ** 📊 Need some help with your machine learning project? Reach me on [fiverr](https://it.fiverr.com/massimozambelli)! **
 
-<br />
+<hr />
 
 ### ✍ Latest blog publications: 
 - [Easy SentencePiece for Subword Tokenization in Python and Tensorflow](https://medium.com/geekculture/easy-sentencepiece-for-subword-tokenization-in-python-and-tensorflow-4361a1ed8e39)
@@ -55,6 +56,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtlw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
 
 [LinkedIn]: https://www.linkedin.com/in/zambellimassimo/
 [instagram]: https://www.instagram.com/max.th_/
