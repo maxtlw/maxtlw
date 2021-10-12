@@ -21,6 +21,7 @@
 <img alt="tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30px" />
 <img alt="scikitlearn" src="https://api.iconify.design/simple-icons/scikitlearn.svg" width="30px" />
 <img alt="fastapi" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="30px" />
+<img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30px" />
 <img alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="30px" />
 <img alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="30px" />
 <img alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="30px" />
