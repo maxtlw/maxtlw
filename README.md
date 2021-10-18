@@ -24,6 +24,7 @@
 <img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30px" />
 <img alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="30px" />
 <img alt="numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="30px" />
+<img alt="streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="30px" />
 <img alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="30px" />
 <img alt="jupyternotebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="30px" />
 <img alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" />
