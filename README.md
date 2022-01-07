@@ -44,12 +44,6 @@
 <img alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" />
 </p>
 
-<hr />
-
-### ** 📊 Need some help with your machine learning project? Reach me on [fiverr](https://it.fiverr.com/massimozambelli)! **
-
-<hr />
-
 ### ✍ Latest blog publications: 
 - [Easy SentencePiece for Subword Tokenization in Python and Tensorflow](https://medium.com/geekculture/easy-sentencepiece-for-subword-tokenization-in-python-and-tensorflow-4361a1ed8e39)
 - [Optimal Cryptocurrencies Portfolio Allocation with Modern Portfolio Theory, in Python](https://medium.com/geekculture/optimal-cryptocurrencies-portfolio-allocation-with-modern-portfolio-theory-in-python-66a0dc98ed65)
