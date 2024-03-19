@@ -5,7 +5,6 @@
 - 🤖 Machine learning enthusiast
 - 🤓 Currently learning.. everything! 
 - 💻 Creator of [cryptoblend.xyz](https://cryptoblend.xyz)
-- ⛳ 2022 goal: contribute to more Open Source projects
 
 
 ### Connect with me:
